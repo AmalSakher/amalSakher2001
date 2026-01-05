@@ -51,8 +51,7 @@ I specialize in building secure, scalable, and maintainable web applications usi
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmalSakher&show_icons=true&theme=default" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AmalSakher&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
